@@ -1,0 +1,16 @@
+{
+  "name": "skysports-technical-task",
+  "description": "Starter project to complete the SKy Sports technical task",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1304.0",
+    "babel-jest": "^29.4.1",
+    "ts-jest": "^29.0.5"
+  }
+}
